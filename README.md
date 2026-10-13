@@ -9,13 +9,13 @@
 
 I'm Nickey, a technologist from Hong Kong. For twenty years I've built alongside founders, taught the next generation, and stepped on stage to make technology make sense for any room. I don't coach from the sidelines: I sit by your side, and we build things together.
 
-**[nickeykhem.com](https://nickeykhem.com)** &nbsp;&nbsp; [Collective Global](https://collectiveglobal.net) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/nickeykhem/) &nbsp;&nbsp; [YouTube](https://www.youtube.com/@nickeykhem)
+**[nickeykhem.com](https://nickeykhem.com)** &nbsp;&nbsp; [Collective Global](https://www.collectiveglobal.net) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/nickeykhem/) &nbsp;&nbsp; [YouTube](https://www.youtube.com/@nickeykhem)
 
 <br>
 
 ## Where I build
 
-**[Collective Global](https://collectiveglobal.net)**, founder. A global venture collective. We build and operate alongside founders, companies and funds, from the first line of code to running a whole portfolio, and we stay in it for the long run.
+**[Collective Global](https://www.collectiveglobal.net)**, founder. A global venture collective. We build and operate alongside founders, companies and funds, from the first line of code to running a whole portfolio, and we stay in it for the long run.
 
 **[BSD Education](https://bsd.education)**, co-founder and CTO. Chris Geary and I saw the same problem. I built the platform, designed the curriculum and led the teaching approach. Thirteen years on, it has reached close to half a million young people.
 
@@ -55,7 +55,7 @@ I'm Nickey, a technologist from Hong Kong. For twenty years I've built alongside
 | 13 more sectors, from EdTech and Construction to BioTech and LegalTech | 32 |
 | **Total** | **110** |
 
-More at [collectiveglobal.net](https://collectiveglobal.net).
+Browse them all at [collectiveglobal.net/ventures](https://www.collectiveglobal.net/ventures/).
 
 </details>
 
@@ -95,4 +95,4 @@ Stack agnostic, on purpose. Pick the tool for the problem, and stop marrying a s
 
 ---
 
-It only takes one opportunity. Have an idea, a company, or a portfolio? **[Work with me at Collective Global ↗](https://collectiveglobal.net)**
+It only takes one opportunity. Have an idea, a company, or a portfolio? **[Work with me at Collective Global ↗](https://www.collectiveglobal.net)**
